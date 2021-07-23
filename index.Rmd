@@ -1,0 +1,8 @@
+--
+title: "Test"
+description: |
+  This is a test website.
+output:
+  distill::distill_article:
+    self_contained: false
+---
